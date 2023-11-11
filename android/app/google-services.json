@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131954199293",
+    "project_id": "ai-app-v1",
+    "storage_bucket": "ai-app-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131954199293:android:277f5cba21af7215b94c94",
+        "android_client_info": {
+          "package_name": "mamosh.aiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPudr7nzGqRqqlxLh4Le9N7yS8RFM0bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
